@@ -1,3 +1,12 @@
+// Given 3 numbers a,b,c determine if they are "Pythagorean triples" i.e. the sum of squares of any two of them is equal to the square of the third.
+
+
+// Input:
+// Three numbers a b c separated by spaces.
+// a, b, c can be any number from 0 to 300 (0 <= a, b, c <= 300)
+
+// Output:
+// "Yes" if a,b,c are Pythagorean triples, else "No".
 #include <stdio.h>
 
 int main() {
