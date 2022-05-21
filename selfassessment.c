@@ -1,3 +1,4 @@
+//Q.L-10 ESC101
 #include<stdio.h>
 int main()
 {
